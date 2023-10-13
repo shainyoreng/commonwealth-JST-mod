@@ -1,0 +1,5 @@
+mass_conscript = {
+	icon = GFX_idea_unknown
+	enable = { always = yes }
+	conscription_factor = 0.05
+}
